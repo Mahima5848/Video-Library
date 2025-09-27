@@ -1,5 +1,6 @@
 .bg-image {
-    background-image: url("/Video-Project/video-banner.jpg");
+    background-image: url("/Video-Library/video-banner.jpg");
     background-size: cover;
     height: 100vh;
 }
+
