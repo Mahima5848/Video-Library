@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: '/Video-Library/',  // aapke repo ka naam
+  base: '/Video-Library/',   // <-- Repo ka naam
 })
